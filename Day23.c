@@ -22,10 +22,10 @@ Output:
 Explanation:
 Compare nodes of both lists, append smaller to result, continue until all nodes are merged.*/
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>ḍr̥ṇśēḍśsdbew4yṇ
 struct Node {
     int data;
-    struct Node* next;
+    struct Node* next; 
 };
 struct Node* createList(int n) {
     struct Node *head = NULL, *temp = NULL, *newNode = NULL;
